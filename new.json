@@ -1,1 +1,15 @@
-nothing
+
+{
+   "me":{
+      "name":"Maksim",
+      "secondName":"Tatarinovich",
+      "age":21,
+      "pets":1,
+      "countOfWifesFuture":3,
+      "perfectSalary":2500
+   },
+   "wife":{
+      "name":"Krasotylya",
+      "age":20
+   }
+}
