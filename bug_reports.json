@@ -1,1 +1,16 @@
-
+{
+"LogInButton":{
+        "bug_rep":{
+             "№":1,
+             "Priority":"High",
+             "Severity":"High",
+             "Version":"Google 11.9"
+             },
+        "Description":{
+            "Step1":"Insert correct Login",
+            "Step2":"Insert correct Password",
+            "Step3":"Press LogIn Button"
+             },
+         "Result":"404"
+        }
+}
